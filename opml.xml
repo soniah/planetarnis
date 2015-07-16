@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+  <head>
+    <title>Planet Arnis</title>
+    <dateModified>Thu, 16 Jul 2015 07:24:26 GMT</dateModified>
+    <ownerName>Planet Arnis</ownerName>
+    <ownerEmail>sonia@snowfrog.net</ownerEmail>
+  </head>
+  <body>
+    <outline type="rss" text="Sonia Hamilton" title="Sonia Hamilton &#xBB; Balintawak" xmlUrl="http://blog.snowfrog.net/tag/balintawak/feed/"/>
+    <outline type="rss" text="John Russell - Evolve CQC" title="Comments on: Blog" xmlUrl="http://www.evolvecqc.com/blog/feed/"/>
+    <outline type="rss" text="MyFMA" title="Everyone's Blog Posts - MyFMA.net - Filipino Martial Arts Network" xmlUrl="http://www.myfma.net/profiles/blog/feed/"/>
+    <outline type="rss" text="Tactical Arnis" title="Tactical Arnis" xmlUrl="https://tacticalarnis.wordpress.com/feed/"/>
+    <outline type="rss" text="Tabamina Balintawak" title="blog.tabiminabalintawak.com" xmlUrl="http://blog.tabiminabalintawak.com/feed"/>
+    <outline type="rss" text="Balintawak Cuentada Seattle" title="BALINTAWAK &#xA0;SEATTLE - BLOG" xmlUrl="http://www.balintawakseattle.com/2/feed"/>
+    <outline type="rss" text="Cebuano Eskrima" title="Cebuano Eskrima" xmlUrl="http://www.blogger.com/feeds/5779702201741848901/posts/default"/>
+    <outline type="rss" text="Pendulum Arts" title="Pendulum Arts" xmlUrl="https://pendulumarts.wordpress.com/feed/"/>
+    <outline type="rss" text="Balintawak Arnis Gold - Cagayan de Oro" title="Balintawak Arnis Gold Cagayan de Oro City" xmlUrl="http://www.blogger.com/feeds/9057455725919640052/posts/default"/>
+    <outline type="rss" text="Sticks, Fists, Blades and Pointy Things" title="" xmlUrl=""/>
+    <outline type="rss" text="Urban Escrima" title="Urban Escrima" xmlUrl="http://www.blogger.com/feeds/842848650871026280/posts/default"/>
+    <outline type="rss" text="Martial What?" title="Martial What? &#xBB; Escrima" xmlUrl="http://www.martialwhat.com/tag/escrima/feed/"/>
+    <outline type="rss" text="Visayan Filipino Martial Arts" title="Visayan Filipino Martial Arts" xmlUrl="http://www.blogger.com/feeds/7437425535428626394/posts/default"/>
+    <outline type="rss" text="Louis V Lim" title="Louis V Lim - EzineArticles Expert Author" xmlUrl="http://feeds.ezinearticles.com/expert/Louis_V_Lim.xml"/>
+    <outline type="rss" text="Filipino Fighting Secrets Live" title="&quot;Secrets&quot; of the Filipino Fighting Arts" xmlUrl="http://filipinofightingsecretslive.com/feed/"/>
+    <outline type="rss" text="Pedoy's School of Escrima" title="Pedoys Escrima" xmlUrl="http://pedoysschoolofescrima.com/feed/"/>
+    <outline type="rss" text="Wing Chun Arnis" title="wingchunarnis &#xBB; arnis-eskrima" xmlUrl="https://wingchunarnis.wordpress.com/category/arnis-eskrima/feed/"/>
+    <outline type="rss" text="Michigan Modern Arnis Academy" title="Michigan Modern Arnis" xmlUrl="http://www.michiganmodernarnis.com/apps/blog/"/>
+    <outline type="rss" text="Playing with Sticks and Sharp Objects" title="Playing with sticks and sharp objects" xmlUrl="http://feeds.feedburner.com/PlayingWithSticksAndSharpObjects"/>
+    <outline type="rss" text="Barcelona Eskrima Group" title="Comentarios en: Eskrima Filipina" xmlUrl="https://bcneg.wordpress.com/eskrima-filipina/feed/"/>
+    <outline type="rss" text="Black Eagle Arnis Escrima Brisbane" title="Black Eagle Arnis Escrima Brisbane (Bayside)" xmlUrl="http://www.uniflowselfdefencesystem.com/apps/blog/"/>
+    <outline type="rss" text="St Louis Counterpoint Martial Arts" title="St. Louis Counterpoint Tactical Systems" xmlUrl="https://stlcounterpoint.wordpress.com/feed/"/>
+    <outline type="rss" text="Arnis-Escrima-Kali" title="Arnis-Escrima-Kali" xmlUrl="http://arnisescrimakali.tumblr.com/rss"/>
+  </body>
+</opml>

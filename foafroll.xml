@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <foaf:Group>
+    <foaf:name>Planet Arnis</foaf:name>
+    <foaf:homepage/>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Sonia Hamilton</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.snowfrog.net">
+            <dc:title>Sonia Hamilton » Balintawak</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.snowfrog.net/tag/balintawak/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>John Russell - Evolve CQC</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.evolvecqc.com">
+            <dc:title>Comments on: Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.evolvecqc.com/blog/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>MyFMA</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="">
+            <dc:title>Everyone's Blog Posts - MyFMA.net - Filipino Martial Arts Network</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.myfma.net/profiles/blog/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Tactical Arnis</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://tacticalarnis.wordpress.com">
+            <dc:title>Tactical Arnis</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://tacticalarnis.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Tabamina Balintawak</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.tabiminabalintawak.com">
+            <dc:title>blog.tabiminabalintawak.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.tabiminabalintawak.com/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Balintawak Cuentada Seattle</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.balintawakseattle.com/blog">
+            <dc:title>BALINTAWAK  SEATTLE - BLOG</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.balintawakseattle.com/2/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Cebuano Eskrima</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://cebuano-eskrima.blogspot.com/">
+            <dc:title>Cebuano Eskrima</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/5779702201741848901/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Pendulum Arts</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://pendulumarts.wordpress.com">
+            <dc:title>Pendulum Arts</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://pendulumarts.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Balintawak Arnis Gold - Cagayan de Oro</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://balintawakarnisgoldcdeo.blogspot.com/">
+            <dc:title>Balintawak Arnis Gold Cagayan de Oro City</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/9057455725919640052/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Sticks, Fists, Blades and Pointy Things</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://en.blog.wordpress.com/feed/">
+            <dc:title/>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about=""/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Urban Escrima</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://urbanescrima.blogspot.com/">
+            <dc:title>Urban Escrima</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/842848650871026280/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Martial What?</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.martialwhat.com">
+            <dc:title>Martial What? » Escrima</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.martialwhat.com/tag/escrima/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Visayan Filipino Martial Arts</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://visayanfilipinomartialarts.blogspot.com/">
+            <dc:title>Visayan Filipino Martial Arts</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/7437425535428626394/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Louis V Lim</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://EzineArticles.com/expert/Louis_V_Lim">
+            <dc:title>Louis V Lim - EzineArticles Expert Author</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.ezinearticles.com/expert/Louis_V_Lim.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Filipino Fighting Secrets Live</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://filipinofightingsecretslive.com">
+            <dc:title>"Secrets" of the Filipino Fighting Arts</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://filipinofightingsecretslive.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Pedoy's School of Escrima</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://pedoysschoolofescrima.com">
+            <dc:title>Pedoys Escrima</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://pedoysschoolofescrima.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Wing Chun Arnis</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://wingchunarnis.wordpress.com">
+            <dc:title>wingchunarnis » arnis-eskrima</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://wingchunarnis.wordpress.com/category/arnis-eskrima/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Michigan Modern Arnis Academy</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.michiganmodernarnis.com/apps/blog/">
+            <dc:title>Michigan Modern Arnis</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.michiganmodernarnis.com/apps/blog/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Playing with Sticks and Sharp Objects</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://silat-escrima.blogspot.com/">
+            <dc:title>Playing with sticks and sharp objects</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/PlayingWithSticksAndSharpObjects"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Barcelona Eskrima Group</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://bcneg.wordpress.com">
+            <dc:title>Comentarios en: Eskrima Filipina</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://bcneg.wordpress.com/eskrima-filipina/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Black Eagle Arnis Escrima Brisbane</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.uniflowselfdefencesystem.com/apps/blog/">
+            <dc:title>Black Eagle Arnis Escrima Brisbane (Bayside)</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.uniflowselfdefencesystem.com/apps/blog/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>St Louis Counterpoint Martial Arts</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://stlcounterpoint.wordpress.com">
+            <dc:title>St. Louis Counterpoint Tactical Systems</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="https://stlcounterpoint.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Arnis-Escrima-Kali</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://arnisescrimakali.tumblr.com/">
+            <dc:title>Arnis-Escrima-Kali</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://arnisescrimakali.tumblr.com/rss"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+  </foaf:Group>
+</rdf:RDF>
